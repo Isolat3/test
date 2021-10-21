@@ -22,6 +22,7 @@ detection:
             - '/mapi/nspi'
             - '/EWS'
             - 'X-Rps-CAT'
+            - 'X-Rps-DOG'
     selection:
         sc-status: 401
     selection_poc:
